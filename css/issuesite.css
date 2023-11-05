@@ -1,0 +1,96 @@
+.blue {text-align: center; color:darkcyan; font-family:'Kaushan Script';}
+.green {text-align: center; color: darkgreen; font-family: 'Kaushan Script'}
+body {background-color:darkcyan}
+.title {text-align-last: center;
+  width: ;
+    border: 10px solid green; background-color:darkseagreen}
+.mission {text-align: left; border: 5px solid green; font-family:kaushanscript-regular;background-color: darkseagreen;width: 500px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto;padding-top: 10px; text-align: center}
+.miss {text-align: center;color:darkseagreen; font-family: 'Kaushan Script'}
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px;
+    /* bottom = footer height */
+    padding: 10px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    overflow: hidden;
+    color: darkseagreen;
+    text-align: center
+}
+.events {text-align: left; border: 5px solid green; font-family:'Kaushan Script';background-color: darkseagreen;width: 300px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto; text-align: center;}
+
+.imgone {width: 100%;
+  max-width: 400px;
+    height: auto;display: block;
+  margin-left: 175px;
+  margin-right: auto; border: 2px solid}
+
+.save { border: 5px solid green; font-family:"KaushanScript-Regular", Arial,;background-color: darkseagreen;width: 500px;height: auto;display: block;margin-right: auto;text-align: center; margin-left:120px}
+
+.one {font-family: 'Kaushan Script'; color:darkgreen; margin-left: 300px}
+
+.two {font-family: 'Kaushan Script'; color:darkgreen; margin-left: 1175px}
+
+.surf { border: 5px solid green; font-family:"KaushanScript-Regular", Arial,;background-color: darkseagreen;width: 500px;height: auto;display: block;margin-right: auto;text-align: center; margin-left: 1000px}
+
+.imgtwo {width: 100%;
+  max-width: 400px;
+    height: auto;display: block;
+  margin-left: 1055px;
+  margin-right: auto; border: 2px solid}
+
+.three {font-family: 'Kaushan Script'; color:darkgreen; margin-left: 300px}
+
+.run { border: 5px solid green; font-family:"KaushanScript-Regular", Arial,;background-color: darkseagreen;width: 500px;height: auto;display: block;margin-right: auto;text-align: center; margin-left:120px}
+
+.imgthree {width: 100%;
+  max-width: 400px;
+    height: auto;display: block;
+  margin-left: 175px;
+  margin-right: auto; border: 2px solid}
+
+.four {font-family: 'Kaushan Script'; color:darkgreen; margin-left: 1130px;}
+
+.paws { border: 5px solid green; font-family:"KaushanScript-Regular", Arial,;background-color: darkseagreen;width: 500px;height: auto;display: block;margin-right: auto;text-align: center; margin-left: 1000px}
+
+.imgfour{width: 100%;
+  max-width: 400px;
+    height: auto;display: block;
+  margin-left: 1055px;
+  margin-right: auto; border: 2px solid}
+
+.about {text-align: left; border: 5px solid green; font-family:'Kaushan Script';background-color: darkseagreen;width: 300px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto; text-align: center;}
+
+.who {text-align: center;color:darkseagreen; font-family: 'Kaushan Script'}
+
+.we {text-align: left; border: 5px solid green; font-family:kaushanscript-regular;background-color: darkseagreen;width: 500px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto;padding-top: 10px; text-align: center}
+
+.what {text-align: center;color:darkseagreen; font-family: 'Kaushan Script'}
+
+.do {text-align: left; border: 5px solid green; font-family:kaushanscript-regular;background-color: darkseagreen;width: 500px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto;padding-top: 10px; text-align: center}
+
+.where {text-align: center;color:darkseagreen; font-family: 'Kaushan Script'}
+
+.are {text-align: left; border: 5px solid green; font-family:kaushanscript-regular;background-color: darkseagreen;width: 500px;height: auto;display: block;
+  margin-left: auto;
+  margin-right: auto;padding-top: 10px; text-align: center}
